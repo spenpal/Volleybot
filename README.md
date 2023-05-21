@@ -12,7 +12,7 @@ This project was completed as part of the [University of Texas at Dallas' CS 439
 
 
 ## Report
-You can read our chatbot design & analysis [here]().
+You can read our chatbot design & analysis [here](https://github.com/spenpal/Volleybot/blob/main/chatbot_report.pdf).
 
 
 ## Web Crawling/Scraping Notes
