@@ -1,5 +1,5 @@
 # Volleybot
-**A simple chatbot to answer any questions related to volleyball!**
+**A chatbot to answer any questions related to volleyball!**
 
 This project was completed as part of the [University of Texas at Dallas' CS 4395 Human Language Technologies curriculum](https://catalog.utdallas.edu/2021/undergraduate/courses/cs4395), respectively taught by [Dr. Karen Mazidi](https://cs.utdallas.edu/people/faculty/karen-mazidi/), during the Spring 2021 semester.
 
